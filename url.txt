@@ -1,0 +1,8 @@
+http://localhost:5024/api/TelaAPI
+
+http://localhost:5024/api/TelaAPI/T0001
+
+http://localhost:5024/api/TelaAPI/iniciales/Gam
+
+
+http://localhost:5024/api/TelaAPI/agregar-al-carrito?idUsuario=1&codTel=T0001&cantidad=1
